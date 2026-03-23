@@ -42,5 +42,5 @@ streamlit run detector.py
 ## Author
 Kareem — Cybersecurity enthusiast focused on blue team operations
 
-![Dashboard]<img width="2559" height="1464" alt="AIDetector" src="https://github.com/user-attachments/assets/9728e343-bf40-4afe-8264-8a66c210c788" />
+Dashboard<img width="2559" height="1464" alt="AIDetector" src="https://github.com/user-attachments/assets/9728e343-bf40-4afe-8264-8a66c210c788" />
 
