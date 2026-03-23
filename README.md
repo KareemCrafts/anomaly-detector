@@ -41,17 +41,6 @@ streamlit run detector.py
 
 ## Author
 Kareem — Cybersecurity enthusiast focused on blue team operations
-```
 
-4. Scroll down → click **"Commit changes"**
-
----
-
-## Step 3 — Add a screenshot to GitHub
-
-1. Take a screenshot of your dashboard (Windows key + Shift + S)
-2. Save it as `dashboard.png`
-3. Click **"Add file"** → **"Upload files"** → upload `dashboard.png`
-4. After uploading, go back to edit README.md and replace `[Add your dashboard screenshot here]` with:
-```
-![Dashboard](dashboard.png)
+![Dashboard](<img width="2559" height="1464" alt="AIDetector" src="https://github.com/user-attachments/assets/2c828566-0846-4e4b-9eb0-9e28fa82a8a2" />
+)
