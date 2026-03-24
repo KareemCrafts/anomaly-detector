@@ -40,7 +40,7 @@ streamlit run detector.py
 - The importance of tuning anomaly sensitivity to reduce alert fatigue
 
 ## Author
-Kareem — Cybersecurity enthusiast focused on blue team operations
+Kareem — Cybersecurity enthusiast
 
 Dashboard<img width="2559" height="1464" alt="AIDetector" src="https://github.com/user-attachments/assets/9728e343-bf40-4afe-8264-8a66c210c788" />
 
